@@ -13,6 +13,7 @@
 		3A8511A225817B7300A1E22C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A8511A025817B7300A1E22C /* Main.storyboard */; };
 		3A8511A425817B7500A1E22C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A8511A325817B7500A1E22C /* Assets.xcassets */; };
 		3A8511A725817B7500A1E22C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3A8511A525817B7500A1E22C /* LaunchScreen.storyboard */; };
+		3A8511B025817CD600A1E22C /* MysteryButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A8511AF25817CD600A1E22C /* MysteryButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3A8511A325817B7500A1E22C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3A8511A625817B7500A1E22C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3A8511A825817B7500A1E22C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3A8511AF25817CD600A1E22C /* MysteryButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MysteryButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				3A85119A25817B7300A1E22C /* AppDelegate.swift */,
 				3A85119C25817B7300A1E22C /* SceneDelegate.swift */,
 				3A85119E25817B7300A1E22C /* ViewController.swift */,
+				3A8511AF25817CD600A1E22C /* MysteryButton.swift */,
 				3A8511A025817B7300A1E22C /* Main.storyboard */,
 				3A8511A325817B7500A1E22C /* Assets.xcassets */,
 				3A8511A525817B7500A1E22C /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 				3A85119F25817B7300A1E22C /* ViewController.swift in Sources */,
 				3A85119B25817B7300A1E22C /* AppDelegate.swift in Sources */,
 				3A85119D25817B7300A1E22C /* SceneDelegate.swift in Sources */,
+				3A8511B025817CD600A1E22C /* MysteryButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
